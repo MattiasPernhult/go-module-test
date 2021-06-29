@@ -1,0 +1,3 @@
+github.com/MattiasPernhult/go-module-test v0.0.0-20210629112350-73cf2ccd0a79 h1:DL0JEnwIlki4RaJ7yFLx81z3szC5+yd/FDN3JF2dyAA=
+github.com/MattiasPernhult/go-module-test/libs/neo4j-database-client v0.0.0-20210629112350-73cf2ccd0a79 h1:KfWSBC70gGAoDRVpUcOzEVDl3XcgDy7w1C7/BbFmv+U=
+github.com/MattiasPernhult/go-module-test/libs/neo4j-database-client v0.0.0-20210629112350-73cf2ccd0a79/go.mod h1:M73cFA5O/7WykF0AxMfFNxZczyXYKqcUy1iFKO67Nmk=
